@@ -52,7 +52,7 @@ const QrScanner = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-gray-900 to-black text-white">
-      <h1 className="text-3xl font-bold mb-6">QR Code Scanner</h1>
+      <h1 className="text-3xl font-bold mb-6">Scan. Decode. Go.</h1>
 
       <div className="rounded-2xl overflow-hidden shadow-lg border border-gray-700">
         <WebcamCapture onScan={handleScan} scanning={scanning} />

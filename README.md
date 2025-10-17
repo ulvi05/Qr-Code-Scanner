@@ -1,4 +1,4 @@
-# 📷 React QR Code Scanner
+# 📷 ScanItUp - QR Code Scanner
 
 A modern **QR Code Scanner** built with React that uses your device's camera to detect and decode QR codes in real time.  
 It features a sleek UI, live webcam preview, automatic link detection, and toast notifications.
